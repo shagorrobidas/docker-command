@@ -27,6 +27,10 @@ Senior Django & DevOps Engineer
 This guide covers a **complete AWS production deployment** for a Django application using Docker Compose on EC2. Instead of running PostgreSQL and Redis as containers, **AWS managed services** (RDS + ElastiCache) replace them — giving you automatic backups, Multi-AZ failover, and zero maintenance overhead.
 
 ### Architecture at a Glance
+<p align="center">
+  <img src="Screenshot from 2026-05-11 01-36-27.png" alt="Screenshot" />
+</p>
+
 
 ```
 Internet → Route 53 (DNS) → ALB (HTTPS/SSL) → EC2 (Docker Compose)
