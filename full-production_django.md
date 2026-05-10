@@ -17,8 +17,8 @@
 ## 👨‍💻 Author
 
 **Shagor Robidas**
-Senior Django & DevOps Engineer
-🔗 [GitHub](https://github.com/shagorrobidas) • 📧 shagorrobidas@email.com • 💼 [LinkedIn](https://linkedin.com/in/shagorrobidas)
+Junior Backend Devloper & DevOps  <br>
+🔗 [GitHub](https://github.com/shagorrobidas) • 📧 shagorrobidas@email.com • 💼 [LinkedIn](https://www.linkedin.com/in/shagor-robidas/)
 
 ---
 
